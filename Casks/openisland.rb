@@ -5,7 +5,7 @@ cask "openisland" do
   url "https://github.com/Octane0411/open-vibe-island/releases/download/v#{version}/Open.Island.dmg",
       verified: "github.com/Octane0411/open-vibe-island/"
   name "Open Island"
-  desc "Native macOS companion app for AI coding agents"
+  desc "Native companion app for AI coding agents"
   homepage "https://github.com/Octane0411/open-vibe-island"
 
   livecheck do
